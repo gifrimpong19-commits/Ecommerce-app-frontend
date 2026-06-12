@@ -27,7 +27,7 @@ export default function Home() {
 
           <div className="mt-8 flex flex-wrap justify-center gap-4">
             <button className="rounded-lg bg-green-600 px-6 py-3 text-white font-medium hover:bg-green-700 transition">
-              Contact Me
+              Contact Gifty
             </button>
 
             <button className="rounded-lg border border-green-600 px-6 py-3 text-green-600 font-medium hover:bg-green-50 transition">
@@ -41,7 +41,7 @@ export default function Home() {
       <section className="bg-white py-20">
         <div className="container mx-auto px-6">
           <h2 className="text-3xl font-bold text-center text-gray-900">
-            About Me
+            About Gifty
           </h2>
 
           <div className="mt-10 max-w-4xl mx-auto text-center">
